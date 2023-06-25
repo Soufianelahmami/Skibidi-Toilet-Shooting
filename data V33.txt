@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPg47WJ.jpg"},
+  {"desc2":"The Skibidi Toilet Shooting unfolded in the local community center during a charity event. ","photo2":"https://iili.io/HPg45xa.jpg"},
+  {"desc3":"Reports indicate that a lone gunman, identified as John Thompson, opened fire indiscriminately within the facility","photo3":"https://iili.io/HPg4uOF.jpg"},
+  {"desc4":"Witnesses described a scene of chaos and panic as people desperately sought shelter and aid","photo4":"https://iili.io/HPg4ADg.jpg"},
+  {"desc5":" Ultimately, six innocent individuals lost their lives, with several others sustaining injuries of varying degrees","photo5":"https://iili.io/HPg4Yiv.jpg"},
+  {"descd":"The sheer randomness and senselessness of the shooting left the community in shock and mourning.","photod":"https://iili.io/HPg4cfR.jpg"}
    ]
  
 }
